@@ -1,0 +1,31 @@
+:root {
+    --height-header:4.8rem;
+}
+
+* {
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+.grid {
+    display:block;
+    width: 100%;
+}
+
+.wide{
+    max-width: 100%;
+    margin:0 auto;
+}
+
+.row {
+    display:flex;
+    flex-wrap: wrap;
+}
