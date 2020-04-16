@@ -1,3 +1,3 @@
 # template__05
 theme: book ticket
-link demo: nthanhtung9x.github.io/template__05
+link demo: http://nthanhtung9x.github.io/template__05
